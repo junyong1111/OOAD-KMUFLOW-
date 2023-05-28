@@ -18,8 +18,11 @@
 ## 🎬프로젝트 시연 동영상
 
  <div align="center">
-<!--  
-[![Video Label](http://img.youtube.com/vi/hasLYYplS_g/0.jpg)](https://www.youtube.com/watch?v=hasLYYplS_g) -->
+ 
+ <img width="1426" alt="스크린샷 2023-05-28 오후 3 45 53" src="https://github.com/junyong1111/OOAD/assets/79856225/036bc818-efaa-467f-817b-f8c5c6b8638d">
+
+[[Video]](https://github.com/junyong1111/OOAD/assets/79856225/a4338673-64e9-486a-9e2d-34be191c03e4)
+
 
 </div>
 
